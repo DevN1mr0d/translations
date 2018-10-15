@@ -69,19 +69,19 @@ en:
       warning: "<strong>Surgeon Generals Warning:</strong> For security reasons, we can't tell you if an email address exists in our database or not. If you don't get an email from us, it's most likely because we don't have an account associated with that email address."
     mobile:
       5strike:
-        return: return to front page
+        return: reveniți pe prima pagină
         subtitle: Shoot, for security reasons, you'll have to wait two hours before being able to try again.
         title: Five Strike Rule
-      cta: Send me Text Message
+      cta: Trimiteți-mi un Mesaj Text
       error_country_code: "<strong>Kinky Operator:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
       error_quota: "<strong>Kinky Operator:</strong> Shoot, we can only try to send up to 3 text messages every 24 hours to any mobile number. If the number exists in our database or not."
       pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
       step1:
-        page_title: Reset Password via Text Message
-        subtitle: Let me help you with that.
-        title: Forgot Password?
+        page_title: Resetați parola prin mesaj text
+        subtitle: Lasă-mă să te ajut cu asta.
+        title: Ați uitat parola?
       step2:
-        cta: Verify You are You &#8482;
+        cta: Verificați că sunteți voi &#8482;
         error_code_match: "<strong>Kinky Operator:</strong> Verification code you entered is incorrect. Verify that the number above matches what you received from us and please try again. This is a recording."
         inexisting_number: If after a couple minutes you don't receive a text message from us, then it's probably because we don't have a profile attached to your number. We recommend you either <a href="%{forgot_password_email_path}">try resetting your password using another method</a> or <a href="%{signup_path}">setup a new profile on FetLife</a>.
         label: 6-digit Verification Code
@@ -230,11 +230,11 @@ en:
     subtitle: Not too short, not too long, just the…
     title: Reset Password
   select_language:
-    button: Change Default Language
-    help_translate: Visit our <a class="silver" href="https://github.com/fetlife/translations">translation project</a> on GitHub and help make FetLife accessible to more of our kinky friends <span class="amp">&amp</span> communities.
-    language_name: English
+    button: Schimbați limba implicită
+    help_translate: Vizitați-ne <a class="silver" href="https://github.com/fetlife/translations">traducere</a> pe GitHub și ajutând FetLife să fie accesibil mai multor comunități ale prietenilor nostri <span class="amp">&amp</span> communities.
+    language_name: Engleză
     sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет!
-    title: Select Language
+    title: Selecteaza limba
   settings_account:
     2fa_cta: Turn On 2-Factor Authentication
     2fa_label: 2-Factor Authentication
